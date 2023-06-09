@@ -15,6 +15,8 @@ FC游戏（也叫红白机、任天堂游戏、小霸王游戏）是80/90年代�
 * 支持两个游戏玩家 two players at the same time.
 
 # Screen Capture截图
+![image](https://github.com/jiqing112/FCGameJoy/assets/17674011/92c92af0-af8d-4105-9175-e1cbc642dca1)
+
 ![image1](https://eattonton.github.io/FCGameJoy/demo1.png)
 ![image1](https://eattonton.github.io/FCGameJoy/demo2.png)
 
